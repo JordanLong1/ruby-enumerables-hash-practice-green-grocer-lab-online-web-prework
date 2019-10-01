@@ -32,7 +32,6 @@ def apply_coupons(cart, coupons)
         end
           return cart
       end
-
 end
 
 
