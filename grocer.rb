@@ -41,7 +41,7 @@ def apply_coupons(cart:[], coupons:[])
     end
   end
 
-  cart
+  return cart
 end
 
 
